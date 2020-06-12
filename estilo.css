@@ -1,0 +1,19 @@
+#corpo-form{
+    background-color: red;
+    border-radius: 15px;
+}
+
+div#msg-sucesso{
+    width: 400 px;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: rgba(50,205,50,.3);
+    border: 1px solid rgb(34,139,34);
+}
+div.msg-erro{
+    width: 200 px;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: rgba(250, 128, 114, .3);
+    border: 1px solid rgb(165, 42, 42);
+}
